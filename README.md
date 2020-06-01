@@ -1,0 +1,2 @@
+# or
+Osztott rendszerek
